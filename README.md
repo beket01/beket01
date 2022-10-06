@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beket01
 - 👀 I’m interested in cool projects!!
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and javaScript
 - 💞️ I’m looking to collaborate on cool company
 - 📫 How to reach me ... srgbeketov@gmail.com
 
